@@ -106,15 +106,15 @@ This suggest likely exfiltration of further staging.
 
 # 8. IOCs
 
-| Type               | Indicator                 |     |
-| ------------------ | ------------------------- | --- |
-| IP (infected host) | 172.17.0.99               |     |
-| MAC Address        | 18:3d:a2:b6:8d:c4         |     |
-| Initial Domain     | bellantonicioccolato[.]it |     |
-| C2 Server IP       | 79.124.78.197             |     |
-| HTTP URI           | /index.php                |     |
-|                    | /foots.php                |     |
-|                    |                           |     |
+| Type               | Indicator                 |     
+| ------------------ | ------------------------- | 
+| IP (infected host) | 172.17.0.99               |     
+| MAC Address        | 18:3d:a2:b6:8d:c4         |     
+| Initial Domain     | bellantonicioccolato[.]it |     
+| C2 Server IP       | 79.124.78.197             |     
+| HTTP URI           | /index.php                |     
+|                    | /foots.php                |     
+|                    |                           |     
 
 # 9. File Hashes
 
